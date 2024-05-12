@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/create-react-app-filmwire/static/css/main.f52b09e9.css",
-    "main.js": "/create-react-app-filmwire/static/js/main.cd4c7288.js",
-    "index.html": "/create-react-app-filmwire/index.html",
-    "main.f52b09e9.css.map": "/create-react-app-filmwire/static/css/main.f52b09e9.css.map",
-    "main.cd4c7288.js.map": "/create-react-app-filmwire/static/js/main.cd4c7288.js.map"
+    "main.css": "/cra-film/static/css/main.f52b09e9.css",
+    "main.js": "/cra-film/static/js/main.cd4c7288.js",
+    "index.html": "/cra-film/index.html",
+    "main.f52b09e9.css.map": "/cra-film/static/css/main.f52b09e9.css.map",
+    "main.cd4c7288.js.map": "/cra-film/static/js/main.cd4c7288.js.map"
   },
   "entrypoints": [
     "static/css/main.f52b09e9.css",
